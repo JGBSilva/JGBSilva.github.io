@@ -4,7 +4,7 @@ navbar_name: "João Gabriel Silva"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
+  name: PhD Student at University of Coimbra
 - name: Position 2 without logo
 
 
@@ -22,12 +22,14 @@ orcid: 0000-0002-1150-1893
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hello! I'm João, a PhD student in Experimental Biology and Biomedicine at the <a href="uc.pt" target="_blank">University of Coimbra</a>, performing my research at the <a href="https://cibb.uc.pt/en" target="_blank">
+    Center of Innovative Biology and Biomedicine</a>. My research focus on understanding metabolic pathway activity in hepatic diseases, namely Type 2 Diabetes (T2D) and Metabolic-Associated Steatotic 
+    Liver Disease (MASLD), using stable isotope tracing and Nuclear Magnetic Ressonance spectroscopy (NMR).
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My PhD project is supervised by <a href="https://cibb.uc.pt/en/people/j-jones" target="_blank">John Jones</a>, in co-supervision by <a href="https://www.ciceco.ua.pt/?tabela=pessoaldetail&menu=218&user=391" target="_blank">Ana Gil</a> 
+    at <a href="https://www.ciceco.ua.pt/?language=eng" target="_blank">CICECO - Aveiro Institute of Materials</a> and <a href="https://www.cienciavitae.pt/portal/en/FB14-CD94-00C0" target="_blank">Ludgero Tavares</a>
+    at <a href="https://www.euvg.pt/investigacao/" target="_blank">Vasco da Gama University School</a>
   </p>
 
 portrait_url: /assets/images/photos/JoaoGabrielSilva.jpg
@@ -52,11 +54,11 @@ education:
   position: BSc in Biology
   date: Sep. 2016 - Jul. 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Sep. 2019 - Jul. 2021
 
 awards:
 - name: Award Name 2
