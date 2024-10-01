@@ -19,7 +19,7 @@ github: 21086637
 linkedin: joao-g-silva
 orcid: 0000-0002-1150-1893
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
     Hello! I'm João, a PhD student in Experimental Biology and Biomedicine at the <a href="https://uc.pt" target="_blank">University of Coimbra</a>, performing my research at the <a href="https://cibb.uc.pt/en" target="_blank">
